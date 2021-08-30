@@ -1,29 +1,15 @@
 [
-    {
-    "sousId": 0,
-    "tokenName": "BANANA",
-    "image": "BANANA.svg",
-    "stakingTokenName": "BANANA",
-    "stakingTokenAddress": {
-      "97": "0x4Fb99590cA95fc3255D9fA66a1cA46c43C34b09a",
-      "56": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
-    },
-    "contractAddress": {
-      "97": "0xbbC5e1cD3BA8ED639b00927115e5f0e0040aA613", 
-      "56": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9"
-    },
-    "poolCategory": "CORE",
-    "projectLink": "https://apeswap.finance/",
-    "harvest": true,
-    "tokenPerBlock": "99393939393",
-    "sortOrder": 1,
-    "isFinished": false,
-    "tokenDecimals": 18
-  },
-  {"sousId": 86,
+  {
+    "sousId": 86,
+    "name": "BANANA --> CLA",
     "tokenName": "CLA",
     "image": "CLA.svg",
     "stakingTokenName": "BANANA",
+    "stakeTokenIsLp": false,
+    "rewardToken": "0xf6663f46ecd7ae8ee8b6cc54681a42eba0ef52b4",
+    "rewardPerBlock": 2480158730158730158,
+    "startBlock": 10348366,
+    "bonusEndBlock": 10751566,
     "stakingTokenAddress": {
       "97": "0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
       "56": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95"
@@ -35,10 +21,10 @@
     "poolCategory": "CORE",
     "projectLink": "https://www.candelacoin.com/",
     "harvest": true,
-    "tokenPerBlock": "2.480158730158730158",
     "sortOrder": 1,
     "reflect": true,
     "isFinished": false,
-    "tokenDecimals": 18
+    "tokenDecimals": 18,
+    "abi": "BEP20_REWARD_APE_ABI"
   }
 ]
