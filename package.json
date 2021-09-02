@@ -1,5 +1,5 @@
 {
-    "name": "@ixm-759/mypools",
+    "name": "@ixm759/mypools",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -14,7 +14,7 @@
       "url": "git+https://github.com/ixm-759/mypools.git"
     },
     "author": "",
-    "license": "ISC",
+    "license": "MIT",
     "bugs": {
       "url": "https://github.com/ixm-759/mypools/issues"
     },
