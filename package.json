@@ -1,0 +1,23 @@
+{
+    "name": "@ixm-759/yield-config",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "files": [
+      "config"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ixm-759/mypools.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/ixm-759/mypools/issues"
+    },
+    "homepage": "https://github.com/ixm-759/mypools#readme"
+  }
+  
